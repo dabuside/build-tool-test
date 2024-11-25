@@ -1,0 +1,14 @@
+{
+  "name": "npm-source",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/bundler.cjs",
+  "module": "dist/esm-bundler.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
